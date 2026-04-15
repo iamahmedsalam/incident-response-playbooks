@@ -2,7 +2,7 @@
 
 **Professional SOC L1 incident response playbooks with real-world validation — 5 attack scenarios simulated, investigated, and documented using a production-grade Wazuh SIEM lab.**
 
-> Built by [Ahmed Salam](https://iamahmedsalam.com) — Aspiring AI-Augmented SOC Analyst | CompTIA Security+ | TryHackMe Top 2%
+> Built by [Ahmed Salam](https://iamahmedsalam.com) — AI-Augmented SOC Analyst | CompTIA Security+ | TryHackMe Top 2%
 
 ---
 
